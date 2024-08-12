@@ -11,11 +11,28 @@
             "id": "99ab3b28cf0064d3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "src/SUMMARY.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c735f346658b9e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/standard-library/concurrency/future.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "src/standard-library/concurrency/future.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "src/standard-library/concurrency/future.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "src/standard-library/concurrency/future.md"
+              }
             }
           }
         ]
@@ -138,7 +159,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e17e17a4278c5f4f",
+  "active": "0c735f346658b9e2",
   "lastOpenFiles": [
     "book/elasticlunr.min.js",
     "book/mark.min.js",
@@ -146,14 +167,15 @@
     "book/searchindex.js",
     "book/searchindex.json",
     "book/fonts/source-code-pro-v11-all-charsets-500.woff2",
-    "book/fonts/SOURCE-CODE-PRO-LICENSE.txt",
     "book/fonts/open-sans-v17-all-charsets-regular.woff2",
     "book/fonts/open-sans-v17-all-charsets-italic.woff2",
     "book/fonts/open-sans-v17-all-charsets-800italic.woff2",
+    "book/fonts/open-sans-v17-all-charsets-800.woff2",
     "book/fonts/open-sans-v17-all-charsets-700italic.woff2",
     "book/FontAwesome/fonts/fontawesome-webfont.svg",
     "book/favicon.svg",
     "book/favicon.png",
+    "src/SUMMARY.md",
     "src/build-and-testing/Readme.md",
     "src/build-and-testing/testing.md",
     "src/build-and-testing/documentation.md",
@@ -163,7 +185,6 @@
     "src/build-and-testing/build-tools.md",
     "src/standard-library/concurrency/atomic.md",
     "src/standard-library/concurrency/atomic.md",
-    "src/SUMMARY.md",
     "src/build-and-testing/code-review.md",
     "src/build-and-testing/documentation.md",
     "src/build-and-testing/code-style.md",
