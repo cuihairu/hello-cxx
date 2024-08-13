@@ -15,7 +15,7 @@
               "state": {
                 "file": "src/SUMMARY.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/versions/Readme.md",
+                "file": "src/design-patterns/introduction.md",
                 "mode": "source",
                 "source": true
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"src/\"  static",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/versions/Readme.md",
+                "file": "src/SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/versions/Readme.md",
+                "file": "src/SUMMARY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/versions/Readme.md"
+                "file": "src/SUMMARY.md"
               }
             }
           }
@@ -171,8 +170,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ef89d5ccd33ae9dc",
+  "active": "99ab3b28cf0064d3",
   "lastOpenFiles": [
+    "src/storage-scope-lifetime/keywords-best-practices.md",
     "book/elasticlunr.min.js",
     "book/mark.min.js",
     "book/searcher.js",
@@ -183,34 +183,32 @@
     "book/fonts/open-sans-v17-all-charsets-italic.woff2",
     "book/fonts/open-sans-v17-all-charsets-800italic.woff2",
     "book/fonts/open-sans-v17-all-charsets-800.woff2",
-    "book/fonts/open-sans-v17-all-charsets-700italic.woff2",
     "book/FontAwesome/fonts/fontawesome-webfont.svg",
     "book/favicon.svg",
     "book/favicon.png",
     "src/SUMMARY.md",
-    "src/build-and-testing/Readme.md",
-    "src/standard-library/Readme.md",
-    "src/standard-library/infrastructure/Readme.md",
-    "src/assembly-and-cpp/Readme.md",
-    "src/template-programming/Readme.md",
-    "src/object-model-and-memory-management/Readme.md",
-    "src/polymorphism-and-virtual-functions/Readme.md",
-    "src/programming-paradigms/Readme.md",
-    "src/basic-syntax/Readme.md",
-    "src/basic-syntax/functions-and-parameters.md",
-    "src/development-environment-and-tools/Readme.md",
-    "src/overview/Readme.md",
-    "src/networking/Readme.md",
-    "src/networking/basics/terminology.md",
-    "src/networking/basics/overview.md",
-    "src/networking/basics/network-models-and-protocols.md",
-    "src/networking/basics/basic-concepts.md",
-    "src/networking/basics/Readme.md",
-    "src/networking/protocols/tcp-udp.md",
-    "src/networking/protocols/packet-capture.md",
-    "src/networking/protocols/overview.md",
-    "src/networking/protocols/application-layer.md",
-    "src/networking/protocols/Readme.md",
-    "src/networking/socket-programming/data-transfer.md"
+    "src/storage-scope-lifetime/type-aliases-modifiers.md",
+    "src/storage-scope-lifetime/special-member-functions.md",
+    "src/storage-scope-lifetime/visibility-access-control.md",
+    "src/storage-scope-lifetime/constants-constexpr.md",
+    "src/storage-scope-lifetime/storage-types-lifetime.md",
+    "src/storage-scope-lifetime/scope-linkage.md",
+    "src/storage-scope-lifetime/storage-class-specifiers.md",
+    "src/storage-scope-lifetime/Readme.md",
+    "src/object-model-and-memory-management/object-memory-model.md",
+    "src/design-patterns/introduction.md",
+    "src/design-patterns/creational-patterns/readme.md",
+    "src/design-patterns/behavioral-patterns/readme.md",
+    "src/design-patterns/structural-patterns/readme.md",
+    "src/design-patterns/creational-patterns/singleton.md",
+    "src/design-patterns/creational-patterns/prototype.md",
+    "src/design-patterns/creational-patterns/factory-method.md",
+    "src/design-patterns/creational-patterns/builder.md",
+    "src/design-patterns/creational-patterns/abstract-factory.md",
+    "src/design-patterns/structural-patterns/proxy.md",
+    "src/design-patterns/structural-patterns/flyweight.md",
+    "src/design-patterns/structural-patterns/facade.md",
+    "src/design-patterns/structural-patterns/decorator.md",
+    "src/design-patterns/structural-patterns/composite.md"
   ]
 }
