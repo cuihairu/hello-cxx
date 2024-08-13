@@ -20,12 +20,24 @@
             }
           },
           {
+            "id": "ef89d5ccd33ae9dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/versions/Readme.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "0c735f346658b9e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/SUMMARY.md",
+                "file": "src/basic-syntax/functions-and-parameters.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/SUMMARY.md",
+                "file": "src/versions/Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/SUMMARY.md",
+                "file": "src/versions/Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/SUMMARY.md"
+                "file": "src/versions/Readme.md"
               }
             }
           }
@@ -159,7 +171,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0c735f346658b9e2",
+  "active": "ef89d5ccd33ae9dc",
   "lastOpenFiles": [
     "book/elasticlunr.min.js",
     "book/mark.min.js",
@@ -175,6 +187,19 @@
     "book/FontAwesome/fonts/fontawesome-webfont.svg",
     "book/favicon.svg",
     "book/favicon.png",
+    "src/SUMMARY.md",
+    "src/build-and-testing/Readme.md",
+    "src/standard-library/Readme.md",
+    "src/standard-library/infrastructure/Readme.md",
+    "src/assembly-and-cpp/Readme.md",
+    "src/template-programming/Readme.md",
+    "src/object-model-and-memory-management/Readme.md",
+    "src/polymorphism-and-virtual-functions/Readme.md",
+    "src/programming-paradigms/Readme.md",
+    "src/basic-syntax/Readme.md",
+    "src/basic-syntax/functions-and-parameters.md",
+    "src/development-environment-and-tools/Readme.md",
+    "src/overview/Readme.md",
     "src/networking/Readme.md",
     "src/networking/basics/terminology.md",
     "src/networking/basics/overview.md",
@@ -186,19 +211,6 @@
     "src/networking/protocols/overview.md",
     "src/networking/protocols/application-layer.md",
     "src/networking/protocols/Readme.md",
-    "src/networking/socket-programming/data-transfer.md",
-    "src/networking/socket-programming/creation-and-connection.md",
-    "src/networking/socket-programming/cleanup.md",
-    "src/networking/socket-programming/basics.md",
-    "src/networking/socket-programming/Readme.md",
-    "src/networking/io-multiplexing/windows/iocp.md",
-    "src/networking/io-multiplexing/linux/select.md",
-    "src/networking/io-multiplexing/linux/poll.md",
-    "src/networking/io-multiplexing/linux/io_uring.md",
-    "src/networking/io-multiplexing/linux/epoll.md",
-    "src/networking/io-multiplexing/bsd/kqueue.md",
-    "src/networking/io-multiplexing/bsd/dev-poll.md",
-    "src/networking/io-multiplexing/windows.md",
-    "src/networking/io-multiplexing/overview.md"
+    "src/networking/socket-programming/data-transfer.md"
   ]
 }
