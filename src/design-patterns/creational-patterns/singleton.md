@@ -2,6 +2,17 @@
 - **目的:** 确保一个类只有一个实例，并提供一个全局访问点。
 - **常见用例:** 日志记录、配置管理、线程池等。
 
+```mermaid
+classDiagram
+    class Singleton {
+        - static Singleton* instance
+        - Singleton()
+        + static Singleton* getInstance()
+    }
+    
+    Singleton <|-- Singleton : 使用实例
+```
+
 ### 2. 饿汉模式（Eager Initialization）
 - **描述:** 实例在类加载时创建。
 - **代码示例:**
