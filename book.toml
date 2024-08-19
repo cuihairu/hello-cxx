@@ -2,7 +2,7 @@
 authors = ["cuihairu"]
 language = "zh"
 multilingual = false
-src = "src"
+src = "docs"
 title = "Hello CPP"
 
 [preprocessor.katex]
